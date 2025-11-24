@@ -12,6 +12,12 @@ This document identifies the major pain points in the revenue-scanner codebase t
 
 ---
 
+- Switching to LangGraph and LangSmith
+- Adding DSPy or something like that
+- Adding Prefect or something
+- LanceDB for metadata
+- Cutting down model costs where possible
+
 ## Easy Fixes
 
 ### 1. Add Response Caching for LLM Calls
